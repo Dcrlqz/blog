@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# RainbomSea.github.io
 
-You can use the [editor on GitHub](https://github.com/Dcrlqz/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+> 复制大佬过来的模板， 页面自己写是不可能的，一辈子都是不可能的了。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 网站地址
 
-### Markdown
+[RainbomSea.xyz](http://rainbomsea.xyz/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 示例截图，嘿嘿，还是蛮好看的吧
 
-```markdown
-Syntax highlighted code block
+![示例图片](http://bolg-images.oss-cn-shenzhen.aliyuncs.com/18-12-7/24840818.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+## 自己写的教程
 
-- Bulleted
-- List
+[GitHub Pages 快速搭建自己的博客](http://rainbomsea.xyz/2018/10/01/%E6%90%AD%E5%BB%BA%E6%88%91%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/)
 
-1. Numbered
-2. List
+## 大佬的教程 还是大佬的教程比较详细吧
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dcrlqz/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[利用 GitHub Pages 快速搭建个人博客](https://www.jianshu.com/p/e68fba58f75c)
